@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.home-container {
+  margin-left:-20%;
+}
+
+body {
+  background-color:#d6d6d6;
+}
+.detail-card-header {
+  font-size: 180%;
+}
+.detail-card-price {
+  font-size: 120%;
+}
